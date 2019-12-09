@@ -2,7 +2,7 @@
 
 
 (function () {
-	$.ajax("json/data.json", {
+	$.ajax("../json/data.json", {
 		"method": "GET",
 		"dataType": "text",
 		"contentType": "application/json"

@@ -1,0 +1,29 @@
+{
+  "status": [
+    "Open",
+    "In progress",
+    "Done"
+  ],
+  "tasks": [
+    {
+      "taskId": 0,
+      "title": "Some header",
+      "taskBody": "Do a thing",
+      "priority": 1,
+      "status": 1
+    },
+    {
+      "taskId": 1,
+      "title": "Some other header",
+      "taskBody": "Do a different thing",
+      "priority": 1,
+      "status": 2
+    }
+  ],
+  "priorities": [
+    "Low",
+    "Minor",
+    "Major",
+    "High"
+  ]
+}
