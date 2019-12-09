@@ -67,7 +67,6 @@ gulp.task("move-html", () => {
 		.pipe(gulp.dest(paths.build.html));
 
 });
-//this doesn't work for some reason
 gulp.task("move-json", () => {
 	console.log("moving json!");
 	return gulp.src(paths.src.json)
